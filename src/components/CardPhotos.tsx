@@ -1,5 +1,3 @@
-import React from "react";
-
 type UrlType = {
   raw: string;
   full: string;
